@@ -394,9 +394,6 @@ copy .ahaocode\config.yaml.example .ahaocode\config.yaml
 
 然后填入 Provider 的 `api_key`、`base_url` 和 `model`。
 
-### 旧的 mewcode.exe 仍然存在
-
-如果之前运行过旧版本，`.venv\Scripts\mewcode.exe` 可能仍被旧进程占用。关闭旧终端后，可以删除旧启动脚本，并继续使用：
 
 ```powershell
 ahaocode
